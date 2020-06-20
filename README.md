@@ -2,7 +2,8 @@
 
 This projects aim to classify real time facial emotion recoginition to either of one of the universal seven emotions using Deep 
 convolutional neural network(CNN) learning and open cv 
-
+![happy](output_happy.jpg)
+![sad](output_sad.JPG)
 ## Installation using command line using pip
 1. pip install opencv-python
 2. pip install tensorflow

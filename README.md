@@ -30,6 +30,13 @@ session = tf.compat.v1.Session(config=config)'''
 
  ![flask](flasklocalserver.JPG)
  
+3. open your Google chrome and go to localhost:5000 and run your project
+
+
+# Project Architecture
+
+
+ 
 
 
 

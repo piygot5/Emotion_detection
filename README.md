@@ -34,6 +34,9 @@ session = tf.compat.v1.Session(config=config)'''
 
 
 # Project Architecture
+1. 4 CNN layer with 64,128,256 512 filter respectively 
+2. 3 dense layer with 256, 512 and 7 nodes respectively
+3. model is converted to json and implemented in flask framework 
 
 
  

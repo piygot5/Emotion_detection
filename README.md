@@ -28,7 +28,7 @@ session = tf.compat.v1.Session(config=config)'''
 
 2. open command line or anaconda prompt from this main project folder and type **python main.py**
 
- ![flask](flasklocalserver.jpg)
+ ![flask](flasklocalserver.JPG)
  
 
 

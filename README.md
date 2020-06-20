@@ -14,9 +14,12 @@ convolutional neural network(CNN) learning and open cv
 3. conda install keras
 
 ## Note:
-If you are using GPU then uncomment this code block in model.py
+If you are using GPU then uncomment this code block in **model.py**
+
 '''config = tf.compat.v1.ConfigProto()
+
 config.gpu_options.per_process_gpu_memory_fraction = 0.15
+
 session = tf.compat.v1.Session(config=config)'''
 
 
@@ -25,8 +28,8 @@ session = tf.compat.v1.Session(config=config)'''
 
 2. open command line or anaconda prompt from this main project folder and type **python main.py**
 
-3. ![GitHub Logo](model.png)
-Format: ![Alt Text](url) 
+ ![flask](flasklocalserver.jpg)
+ 
 
 
 
